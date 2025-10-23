@@ -1,7 +1,7 @@
 
 # Baseerah Experimental Platform
 
-![Baseerah Preview](https://github.com/m1424/baseerah/blob/main/images/baseerah-preview.png)
+![Baseerah Project Banner](https://raw.githubusercontent.com/m142411/Baseera-Platform/e3c0d652a2ad0b184f4628e87625f46cffac3efc/mm.png)
 
 ## ⚠️ Notice: This Project is a Proof of Concept (PoC)
 
