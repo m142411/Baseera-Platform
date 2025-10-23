@@ -8,14 +8,14 @@ export default {
       },
       colors: {
         green: {
-          900: '#0A1207', // Dark royal green
+          900: '#283f20ff', // Dark royal green
           800: '#2E7D32',
           700: '#388E3C',
         },
         yellow: {
-          400: '#FFD700', // Gold
-          500: '#FFC107',
-          600: '#FF8F00',
+          400: 'rgba(105, 132, 109, 1)', // Gold
+          500: '#7d9f7dff',
+          600: '#426642ff',
         }
       },
       spacing: {

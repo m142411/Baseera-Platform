@@ -10,12 +10,12 @@ const Developer: React.FC = () => {
             {/* Header */}
             <div className="text-center mb-12">
               <div className="w-32 h-32 bg-green-900 rounded-full flex items-center justify-center mx-auto mb-6">
-                <span className="text-4xl font-bold text-white">م.ش</span>
+                <span className="text-4xl font-bold text-white">mays</span>
               </div>
               <h1 className="text-3xl md:text-4xl font-bold text-green-900 mb-2">
                 ميس مبارك الشمراني
               </h1>
-              <p className="text-xl text-gray-600 mb-6">المطور</p>
+              
               <div className="flex items-center justify-center space-x-2 space-x-reverse mb-8">
                 <Search className="w-6 h-6 text-yellow-500" />
                 <span className="text-lg font-semibold text-green-900">كلمة من المطور</span>

@@ -7,4 +7,6 @@ export const navigationItems: NavigationItem[] = [
   { id: 'yaqin', label: 'يقين', href: '/yaqin' },
   { id: 'media', label: 'المركز الإعلامي', href: '/media' },
   { id: 'security', label: 'الأمان', href: '/security' },
+  { id: 'developer', label: 'المطور', href: '/developer' },
+  { id: 'contact', label: 'تواصل معنا', href: '/contact' },
 ];
